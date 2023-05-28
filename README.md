@@ -31,7 +31,7 @@ To use terminal-timer, run the `timer.py` script with the desired options. Here 
 ### Options
 
 - `-h, --help`: Display the help message and usage information.
-- `-d, --display`: Choose the display mode. Use `string` for a regular string format (default) or `segment` for a 7-segment representation.
+- `-seg`: Choose the display mode. By default displays a regular string format or `seg` for a 7-segment representation.
 - `-H, --hours`: Set the number of hours for the countdown timer (default: 0).
 - `-M, --minutes`: Set the number of minutes for the countdown timer (default: 0).
 - `-S, --seconds`: Set the number of seconds for the countdown timer (default: 0).
